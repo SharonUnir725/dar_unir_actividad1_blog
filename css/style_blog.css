@@ -6,6 +6,12 @@ h2{
     font-style: italic;
 }
 
+h3{
+    width: 100%;
+    height: 20px;
+    background-color: beige;
+}
+
 .contenedor{
     width: 1400px;
     margin: auto;
@@ -40,4 +46,11 @@ h2{
 .enlace-titulo{
     text-decoration: none;
     color: black;
+}
+
+footer{
+    width: 100%;
+    height: 20px;
+    background-color: beige;
+    text-align: center;
 }

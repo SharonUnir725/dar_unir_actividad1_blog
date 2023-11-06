@@ -6,11 +6,6 @@ h2{
     font-style: italic;
 }
 
-a{
-    text-decoration: none;
-    color: black;
-}
-
 .contenedor{
     width: 1400px;
     margin: auto;
@@ -35,4 +30,14 @@ a{
 .fuente{
     font-size: 10px;
     font-style: italic;
+}
+
+.enlace{
+    text-decoration: underline;
+    color: black;
+}
+
+.enlace-titulo{
+    text-decoration: none;
+    color: black;
 }
